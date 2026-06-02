@@ -1,20 +1,19 @@
 <div align="center">
 
-<h1>Adem</h1>
+# Hey there, I'm Adem
 
-<p><sub>COMPUTER SCIENCE STUDENT · FREELANCE DEVELOPER</sub></p>
+**18 y/o · French-Turkish · Computer Science Student & Freelancer**
 
-<p>
-  18 y/o &nbsp;·&nbsp; France &amp; Turkey &nbsp;·&nbsp; French · Turkish · English · Spanish · German
-</p>
+Born in France · Living between **France** and **Turkey**
+Speaks **French** · **Turkish** · **English** · **Spanish** · **German**
 
 </div>
 
 ---
 
-### About
+### About Me
 
-Passionate about building clean and efficient software. Currently studying Computer Science while working as a freelancer on the side. Born in France, living between two countries and two cultures.
+I'm an 18-year-old developer and freelancer passionate about building clean, efficient software. Currently studying Computer Science while taking on freelance projects on the side.
 
 - Computer Science Student
 - Freelance Developer
@@ -23,26 +22,32 @@ Passionate about building clean and efficient software. Currently studying Compu
 
 ---
 
-### Stack
+### Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1b2a?style=flat-square&logo=python&logoColor=4da8da" />
-  <img src="https://img.shields.io/badge/JavaScript-2a2800?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-001a33?style=flat-square&logo=typescript&logoColor=5da8f5" />
-  <img src="https://img.shields.io/badge/C%23-0d2200?style=flat-square&logo=csharp&logoColor=68c244" />
-  <img src="https://img.shields.io/badge/React-0a1e2d?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Git-2a0a00?style=flat-square&logo=git&logoColor=F05032" />
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
 ### Get in Touch
 
-Feel free to reach out if you want to collaborate or just chat.
+Feel free to reach out if you want to collaborate or just chat!
+
+[![Discord](https://img.shields.io/badge/httpmethod-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/httpmethod)
 
 ---
 
 <div align="center">
-<sub><i>"Coding was always an ambition."</i></sub>
+
+*"Coding was always an ambition"*
+
 </div>
