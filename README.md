@@ -1,28 +1,28 @@
 <div align="center">
 
-# Hey there, I'm Adem 👋
+# Hey there, I'm Adem
 
 **18 y/o · French-Turkish · Computer Science Student & Freelancer**
 
 🇫🇷 Born in France · Living between **France** and **Turkey** 🇹🇷  
-🗣️ Speaks **French** & **Turkish**
+Speaks **French** **Turkish** **English** **Spanish** & **German
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 I'm an 18-year-old developer and freelancer passionate about building clean, efficient software. Currently studying Computer Science while taking on freelance projects on the side.
 
-- 🎓 Computer Science Student
-- 💼 Freelance Developer
-- 🌍 Based between France & Turkey
-- ⚡ Always learning, always shipping
+- Computer Science Student
+- Freelance Developer
+- Based between France & Turkey
+- Always learning, always shipping
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -35,7 +35,7 @@ I'm an 18-year-old developer and freelancer passionate about building clean, eff
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 
 Feel free to reach out if you want to collaborate or just chat!
 
@@ -43,6 +43,6 @@ Feel free to reach out if you want to collaborate or just chat!
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad."*
+*"Coding was always an ambition"*
 
 </div>
