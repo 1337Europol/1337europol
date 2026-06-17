@@ -8,7 +8,11 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: 1337europol
@@ -16,21 +20,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: actions/checkout@v4
-        with:
-          ref: output
-          fetch-depth: 0
-
-      - name: Push snake to output branch
+      - name: Push to output branch
         run: |
-          mkdir -p output
-          cp dist/github-contribution-grid-snake.svg output/
-          cp dist/github-contribution-grid-snake-dark.svg output/
-          cd output
-          git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b output
-          git add .
+          git checkout --orphan output 2>/dev/null || git checkout output
+          git rm -rf . 2>/dev/null || true
+          cp dist/github-contribution-grid-snake.svg .
+          cp dist/github-contribution-grid-snake-dark.svg .
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
           git commit -m "Update snake"
-          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/1337europol/1337europol.git output
+          git push --force origin output
