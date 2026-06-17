@@ -66,8 +66,6 @@ I build clean, fast software — currently studying CS while shipping freelance 
 
 ---
 
-## Snake
-
 <div align="center">
 
 <picture>
