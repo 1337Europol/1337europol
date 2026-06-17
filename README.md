@@ -14,8 +14,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## About Me
 
 18 y/o dev based between France and Turkey.
@@ -24,8 +22,6 @@ I build clean, fast software — currently studying CS while shipping freelance 
 - Studying Computer Science
 - Taking freelance clients
 - Always working on something new
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -84,23 +80,11 @@ I build clean, fast software — currently studying CS while shipping freelance 
 
 ---
 
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=1337europol&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/1337europol)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=58A6FF)](https://github.com/1337europol)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
+[![Discord](https://img.shields.io/badge/httpmethod-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/httpmethod)
 
 </div>
 
