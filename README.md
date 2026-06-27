@@ -16,8 +16,8 @@
 
 ## About Me
 
-18 y/o dev based between France and Turkey.
-I build clean, fast software — currently studying CS while shipping freelance projects on the side.
+18 yo dev based between France and Türkiye
+I build clean fast software currently studying cybersecuritye while shipping freelance projects on the side
 
 - Studying Computer Science
 - Taking freelance clients
@@ -78,7 +78,7 @@ I build clean, fast software — currently studying CS while shipping freelance 
 
 ---
 
-## Connect
+## Contact
 
 <div align="center">
 
