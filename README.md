@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=1&color=58A6FF&center=true&vCenter=true&repeat=false&width=650&height=80&lines=1337europol" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+clean%2C+fast+software.;Always+learning%2C+always+shipping.;Open+to+freelance+opportunities.;18+y%2Fo+%E2%80%94+France+%E2%86%94+Turkey.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+clean%2C+fast+software.;Always+learning%2C+always+shipping.;Open+to+freelance+opportunities.;19+y%2Fo+%E2%80%94+France+%E2%86%94+Turkey.)](https://git.io/typing-svg)
 
 <br/>
 
