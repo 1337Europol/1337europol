@@ -22,7 +22,7 @@ I build clean, fast software, currently studying cybersecurity while working as 
 * Studying Computer Science
 * Taking freelance clients
 * Always working on something new
-* Of course I work sometimes with AI, but I understand what I build with it
+* Of course sometimes I work with AI, but I understand what I build with it
 
 ---
 
