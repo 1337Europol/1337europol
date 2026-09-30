@@ -17,11 +17,12 @@
 ## About Me
 
 19 yo dev based between France and Türkiye
-I build clean fast software currently studying cybersecuritye while working as a RSSI
+I build clean fast software currently studying cybersecuritye while working as a CISO
 
 - Studying Computer Science
 - Taking freelance clients
 - Always working on something new
+- Of Course I work sometimes with AI, but I understand what I build with it
 
 ---
 
