@@ -161,6 +161,28 @@ I build clean, fast software, currently studying cybersecurity while working as 
 
 ---
 
+## My contributions
+
+<div align="center">
+
+<img
+  src="./profile-3d-contrib/profile-green-animate.svg"
+  width="100%"
+  alt="3D animated GitHub contribution graph"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=1337europol&bg_color=000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=0D47A1&hide_border=true"
+  width="100%"
+  alt="GitHub activity graph"
+/>
+
+</div>
+
+---
+
 ## Contact
 
 <div align="center">
