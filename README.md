@@ -30,7 +30,7 @@ I build clean, fast software, currently studying cybersecurity while working as 
 
 <div align="center">
 
-### `01` — Languages & Markup
+### `01` Languages & Markup
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -52,7 +52,7 @@ I build clean, fast software, currently studying cybersecurity while working as 
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=5391FE)
 
-### `02` — Frontend Development
+### `02` Frontend Development
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=FFFFFF)
@@ -67,7 +67,7 @@ I build clean, fast software, currently studying cybersecurity while working as 
 ![Sass](https://img.shields.io/badge/Sass-0d1117?style=flat-square&logo=sass&logoColor=CC6699)
 ![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=FFFFFF)
 
-### `03` — Mobile Development
+### `03` Mobile Development
 
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=FFFFFF)
@@ -76,7 +76,7 @@ I build clean, fast software, currently studying cybersecurity while working as 
 ![iOS](https://img.shields.io/badge/iOS-0d1117?style=flat-square&logo=apple&logoColor=FFFFFF)
 ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B)
 
-### `04` — Backend & APIs
+### `04` Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 ![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=FFFFFF)
@@ -92,7 +92,7 @@ I build clean, fast software, currently studying cybersecurity while working as 
 ![Discord.py](https://img.shields.io/badge/Discord.py-0d1117?style=flat-square&logo=discord&logoColor=5865F2)
 ![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF)
 
-### `05` — Databases & Data Science
+### `05` Databases & Data Science
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -108,7 +108,7 @@ I build clean, fast software, currently studying cybersecurity while working as 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)
 
-### `06` — Cybersecurity & Networking
+### `06` Cybersecurity & Networking
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7)
@@ -119,7 +119,7 @@ I build clean, fast software, currently studying cybersecurity while working as 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-0d1117?style=flat-square&logo=openssl&logoColor=721412)
 
-### `07` — Operating Systems
+### `07` Operating Systems
 
 ![Windows 10](https://img.shields.io/badge/Windows_10-0d1117?style=flat-square&logo=windows&logoColor=0078D6)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-0d1117?style=flat-square&logo=archlinux&logoColor=1793D1)
@@ -127,7 +127,7 @@ I build clean, fast software, currently studying cybersecurity while working as 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=flat-square&logo=ubuntu&logoColor=E95420)
 ![Debian](https://img.shields.io/badge/Debian-0d1117?style=flat-square&logo=debian&logoColor=A81D33)
 
-### `08` — DevOps, Cloud & CI/CD
+### `08` DevOps, Cloud & CI/CD
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=FFFFFF)
@@ -142,7 +142,7 @@ I build clean, fast software, currently studying cybersecurity while working as 
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
 ![Linux Server](https://img.shields.io/badge/Linux_Server-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 
-### `09` — Testing & Code Quality
+### `09` Testing & Code Quality
 
 ![Pytest](https://img.shields.io/badge/Pytest-0d1117?style=flat-square&logo=pytest&logoColor=0A9EDC)
 ![Vitest](https://img.shields.io/badge/Vitest-0d1117?style=flat-square&logo=vitest&logoColor=6E9F18)
@@ -152,7 +152,7 @@ I build clean, fast software, currently studying cybersecurity while working as 
 ![npm](https://img.shields.io/badge/npm-0d1117?style=flat-square&logo=npm&logoColor=CB3837)
 ![pnpm](https://img.shields.io/badge/pnpm-0d1117?style=flat-square&logo=pnpm&logoColor=F69220)
 
-### `10` — IDEs & Creative Tools
+### `10` IDEs & Creative Tools
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0d1117?style=flat-square&logo=visualstudio&logoColor=9B4F96)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
