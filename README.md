@@ -166,7 +166,7 @@ I build clean, fast software, currently studying cybersecurity while working as 
 <div align="center">
 
 <img
-  src="./profile-3d-contrib/profile-green-animate.svg"
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
   width="100%"
   alt="3D animated GitHub contribution graph"
 />
