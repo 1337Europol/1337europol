@@ -141,12 +141,6 @@ I build clean, fast software, currently studying cybersecurity while working as 
 
 ![Streak](https://streak-stats.demolab.com/?user=1337europol\&theme=tokyonight\&hide_border=true\&ring=58A6FF\&fire=58A6FF\&currStreakLabel=58A6FF)
 
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1337europol\&theme=tokyo-night\&hide_border=true\&area=true\&point=58A6FF\&line=58A6FF\&area_color=58A6FF)](https://github.com/1337europol)
-
-</div>
-
 ---
 
 <div align="center">
