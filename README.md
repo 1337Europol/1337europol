@@ -40,7 +40,6 @@ I build clean, fast software, currently studying cybersecurity while working as 
 ![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00ADD8)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
 ![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
 ![Swift](https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=F05138)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
@@ -124,8 +123,6 @@ I build clean, fast software, currently studying cybersecurity while working as 
 ![Windows 10](https://img.shields.io/badge/Windows_10-0d1117?style=flat-square&logo=windows&logoColor=0078D6)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-0d1117?style=flat-square&logo=archlinux&logoColor=1793D1)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=flat-square&logo=ubuntu&logoColor=E95420)
-![Debian](https://img.shields.io/badge/Debian-0d1117?style=flat-square&logo=debian&logoColor=A81D33)
 
 ### `08` DevOps, Cloud & CI/CD
 
